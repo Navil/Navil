@@ -24,8 +24,5 @@
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Navil&theme=soft-green)
 &nbsp;
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Navil&layout=compact&theme=highcontrast)
-
-
 ### 📫 Connect with Me:
 [LinkedIn](https://www.linkedin.com/in/thomas-anderl-69b3961a3/)
